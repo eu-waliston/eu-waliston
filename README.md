@@ -32,6 +32,6 @@
 
 <img src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="250" align="right"/>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=bkt-tonton&show_icons=true&locale=en" alt="bkt-tonton" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=bkt-tonton&show_icons=true&locale=en&theme=radical" alt="bkt-tonton" /></p>
 
 
