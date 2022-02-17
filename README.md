@@ -1,10 +1,10 @@
+<p  align="center" ><img align="left" width="380" alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 <h1 align="center">Hi 👋, I'm Waliston</h1>
-<p width="150" align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 <h3 align="center">A fullstack developer Jr from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bkt-tonton&label=Profile%20views&color=0e75b6&style=flat" alt="bkt-tonton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkt-tonton" alt="bkt-tonton" /></a> </p>
+<p align="center" > <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkt-tonton" alt="bkt-tonton" /></a> </p>
 
 - 🔭 I’m currently working on [Vanish Clone (em construção)](https://github.com/bkt-tonton/Vanish-Clone)
 
