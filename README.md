@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/bkt-tonton](https://github.com/bkt-tonton)
 
-- ⚡ Fun fact **I love watch korean dramas**
+- ⚡ Fun fact **I love watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
