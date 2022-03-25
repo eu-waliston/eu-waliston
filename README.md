@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bkt-tonton](https://github.com/bkt-tonton)
 
-- 💬 Ask me about **HTML, CSS, MySqL, Python**
+- 💬 Ask me about **HTML, CSS, MySqL, Python, Angular**
 
 - 📫 How to reach me **wesantos@inf.ufsm.br**
 
