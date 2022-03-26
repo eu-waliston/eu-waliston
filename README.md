@@ -5,9 +5,8 @@
 
 
 
-- 🔭 I’m currently working on [Vanish Clone (em construção)](https://github.com/bkt-tonton/Vanish-Clone)
 
-- 🌱 I’m currently learning **Javascript, CSS, Angular**
+- 🌱 I’m currently learning **Javascript, SASS, Angular, Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bkt-tonton](https://github.com/bkt-tonton)
 
