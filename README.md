@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, SASS, Angular, Node**
 
-- 👨‍💻 All of my projects are available at https://bkt-tonton.github.io/Portifolio/
+- 👨‍💻 All of my projects are available at https://wes-portifolio.netlify.app/
 
 - 💬 Ask me about **HTML, CSS, MySqL, Python, Angular**
 
