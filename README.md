@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **wesantos@inf.ufsm.br**
 
-- 📄 Know about my experiences [https://github.com/bkt-tonton](https://github.com/bkt-tonton)
+- 📄 Know about my experiences https://wes-portifolio.netlify.app/
 
 - ⚡ Fun fact **I love watch Anime**
 
