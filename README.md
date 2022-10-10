@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, MySqL, Python, Angular**
 
-- 📫 How to reach me **wesantos@inf.ufsm.br**
+- 📫 How to reach me **goneisgone@hotmail.com**
 
 - 📄 Know about my experiences https://wes-portifolio.netlify.app/
 
