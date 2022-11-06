@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript, SASS, Angular, Java, CSS**
+- 🌱 I’m currently learning **Javascript, SASS, Angular, Java, Three.js**
 
 - 👨‍💻 All of my projects are available at https://wes-portifolio.netlify.app/
 
