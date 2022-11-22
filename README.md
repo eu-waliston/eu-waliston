@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, SASS, Angular, Java, Three.js, JAVA EE**
 
-- 👨‍💻 All of my projects are available at https://wes-portifolio.netlify.app/
+- 👨‍💻 All of my projects are available at (SOON!!)
 
 - 💬 Ask me about **HTML, CSS, MySqL, Python, Angular**
 
