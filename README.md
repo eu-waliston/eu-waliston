@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript, SASS, Angular, Java, Three.js, JAVA **
+- 🌱 I’m currently learning **Javascript, SASS, Angular, Java, Three.js, JAVA , node**
 
 - 👨‍💻 All of my projects are available at (SOON!!)
 
