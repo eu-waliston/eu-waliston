@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **goneisgone@hotmail.com**
 
-- 📄 Know about my experiences https://wes-portifolio.netlify.app/
-
+- 📄 Know about my experiences (soon!)
+- 
 - ⚡ Fun fact **I love watch Anime**
 
 <h3 align="left">Connect with me:</h3>
