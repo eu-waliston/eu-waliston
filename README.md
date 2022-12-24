@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript, SASS, React, Three.js , Node, Express, Axios**
+- 🌱 I’m currently learning **Javascript, SASS, React, Three.js , Node, Express, Axios, Linux**
 
 - 👨‍💻 All of my projects are available at (SOON!!)
 
