@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, MySqL, Python, Angular**
 
-- 📫 How to reach me **tdwp.bkt@gmail.com**
+- 📫 How to reach me **walistoneuripedessantos@hotmail.com**
 
 - 📄 Know about my experiences (soon!)
 
