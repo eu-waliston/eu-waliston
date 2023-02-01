@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at (SOON!!)
 
-- 💬 Ask me about **HTML, CSS, MySqL, Python, Angular**
+- 💬 Ask me about **HTML, CSS, MySqL, React, Angular**
 
-- 📫 How to reach me **walistoneuripedessantos@hotmail.com**
+- 📫 How to reach me **wesantosdev@gmail.com**
 
 - 📄 Know about my experiences (soon!)
 
