@@ -86,8 +86,4 @@
 ### Github Stats:
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wal-wizard)](https://git.io/streak-stats)
-
-<br>
-<br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=wal-wizard&theme=dracula)](https://git.io/streak-stats)
