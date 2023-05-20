@@ -105,4 +105,7 @@
 ### Github Stats:
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wal-wizard&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wal-wizard&theme=dracula)](https://git.io/streak-stats) 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wal-wizard">
+<img src="https://github-profile-trophy.vercel.app/?username=wal-wizard">
+
