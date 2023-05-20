@@ -89,7 +89,7 @@
 ### 🌱 I'm currently learning...
 
 - GraphQL / Cypress
-- Advance React JS / React-Native
+- Advanced JS Concepts / Advance React JS / React-Native
 
 ### Github Stats:
 <br>
