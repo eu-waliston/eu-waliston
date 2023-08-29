@@ -22,7 +22,7 @@
 
 
 <h3>
- 🚀 Principal Stack
+ 🚀 Main Stack
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
