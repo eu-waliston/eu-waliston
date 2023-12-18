@@ -15,8 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-wal-wizard)
 ## 🔗 Contact
-[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://we-santos.vercel.app/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534988384564?text=Ol%C3%A1,%20Boa%20tarde)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesantosdev@gmail.com?subject=&body=)
 
 
