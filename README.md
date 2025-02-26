@@ -105,7 +105,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-waliston&layout=compact&theme=dark)
 
+
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eu-waliston&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eu-waliston&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
+
+
 
