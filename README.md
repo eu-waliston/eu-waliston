@@ -105,7 +105,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-waliston&layout=compact&theme=dark)
 
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eu-waliston&theme=dark)
 
