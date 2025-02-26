@@ -96,14 +96,17 @@
  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </p>
 
-### 🌱 I'm currently learning...
-
-- GraphQL / Cypress
-- Advanced JS Concepts / Advance React JS / React-Native
-
 ### Github Stats:
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eu-waliston&theme=dracula)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eu-waliston&show_icons=true&theme=dark)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eu-waliston">
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-waliston&layout=compact&theme=dark)
+
+<br>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eu-waliston&theme=dark)
+
