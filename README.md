@@ -95,13 +95,3 @@
  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </p>
-
-### Github Stats:
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eu-waliston&show_icons=true&theme=dark)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-waliston&layout=compact&theme=dark)
-
