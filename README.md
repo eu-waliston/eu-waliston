@@ -18,7 +18,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesantosdev@gmail.com?subject=&body=)
 
-<a href="https://portifolio-website-psi.vercel.app/" target="_blank">
+<a href="https://waliston-euripedes.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/website-4D4D4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 
