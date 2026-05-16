@@ -1,79 +1,89 @@
-# 👋 Hi, I’m Waliston Euripedes  
-**Fullstack Developer | Node.js • React • MongoDB**
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work">
+</div>
 
-I build **production-ready web applications** with focus on performance, scalability and real business impact.  
-4+ years of experience working with modern JavaScript stacks and cloud-based environments.
+# ⚡ Waliston Euripedes | Fullstack Developer
 
-🌍 Based in Brazil — Open to Remote Opportunities  
+### *Transformando requisitos em software escalável e de alto impacto.*  
 
----
-
-## 🚀 About Me
-
-- Fullstack Developer with strong focus on **Backend (Node.js)**
-- Experience building and maintaining **real applications in production**
-- Comfortable working with **remote teams**
-- Passionate about clean code, architecture and solving real-world problems
-
-> _“The future belongs to those who prepare for it today.”_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/waliston-euripedes-7b2ba51b0/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://waliston-euripedes.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:wesantosdev@gmail.com)
 
 ---
 
-## 🧠 Main Tech Stack
+## 🎯 Perfil Executivo
 
-**Frontend**
-- React, HTML, CSS, Sass, Styled Components
-- Responsive Design & UI/UX fundamentals
+Desenvolvedor Fullstack com **4+ anos de experiência** prática no ciclo de vida completo de aplicações web de alta performance. Especialista em construir **backends robustos com Node.js** e interfaces dinâmicas com **React**, sempre orientado a resultados de negócio e experiência do usuário.
 
-**Backend**
-- Node.js, Express
-- REST APIs, Authentication, MVC / Modular Architecture
+Atuo com foco em **arquitetura limpa, monitoramento proativo e ambientes cloud-native**, entregando código testável e preparado para escalar. Disponibilidade para **oportunidades Remotas e Globais**, contribuindo com times ágeis e multidisciplinares.
 
-**Databases**
-- MongoDB, MySQL, Redis
-- Mongoose, Sequelize
-
-**Cloud & DevOps**
-- Docker, AWS
-- Linux, Grafana, Datadog
-
-**Testing**
-- Jest, Cypress (TDD mindset)
+> *"Código limpo não é um luxo, é uma premissa para negócios sustentáveis."*
 
 ---
 
-## 🛠 Tools & Workflow
+## 🚀 Hard Skills em Destaque
 
-- Git & GitHub
-- Postman / Insomnia
-- CI/CD (Jenkins, Cirrus CI)
-- VS Code, Linux environment
-- Vercel, Netlify
+**`Backend Core`**
+Node.js • Express • REST APIs • Autenticação JWT/OAuth • Arquitetura MVC & Modular
 
----
+**`Frontend Moderno`**
+React • JavaScript (ES6+) • HTML5 Semântico • CSS3/Sass • Styled-Components • Design Responsivo
 
-## 📌 Featured Projects
+**`Dados & Persistência`**
+MongoDB (Mongoose) • MySQL (Sequelize) • Redis (Cache & Sessões)
 
-### 🔹 Jogo Seguro IA (Production Application)
-AI-powered platform focused on user behavior analysis and risk detection.  
-🌐 https://www.jogoseguroia.com.br  
+**`DevOps & Cloud`**
+Docker • AWS (EC2, S3, Lambda) • Linux • CI/CD (Jenkins, Cirrus CI)
 
-### 🔹 SmartFarmAI
-AI project for agricultural monitoring using IoT and Machine Learning (PyTorch).  
-🔗 https://github.com/eu-waliston/SmartFarmAI  
-
-### 🔹 Sabores
-Modern recipe web application built with JavaScript and MongoDB.  
-🔗 https://github.com/eu-waliston/Sabores  
+**`Observabilidade & Qualidade`**
+Testes Automatizados (Jest, Cypress) • Monitoramento (Grafana, Datadog)
 
 ---
 
-## 📫 Contact
+## 🛠️ Stack de Ferramentas
 
-- 📧 Email: wesantosdev@gmail.com  
-- 💻 GitHub: https://github.com/eu-waliston  
-- 🌐 Portfolio: https://waliston-euripedes.vercel.app  
+**Desenvolvimento:** VS Code • Postman • Insomnia • Git • GitHub  
+**Deploy & Infra:** Vercel • Netlify • Nginx  
+**Metodologias:** TDD (Test-Driven Development) • Code Review • Pair Programming
 
 ---
 
-⭐ Feel free to explore my repositories and reach out!
+## 📌 Projetos que Falam por Mim
+
+### 🤖 [Jogo Seguro IA]((https://www.jogoseguroia.com.br))
+**`PRODUÇÃO`** | Plataforma SaaS inteligente para análise de comportamento e detecção de riscos.  
+*Stack: Node.js, React, MongoDB, IA/Aprendizado de Máquina, Docker, AWS.*  
+> Impacto: Processamento de dados em tempo real para tomada de decisão crítica.
+
+### 🌾 [SmartFarmAI](https://github.com/eu-waliston/SmartFarmAI)  
+**`IOT & MACHINE LEARNING`** | Projeto de monitoramento agrícola inteligente utilizando IoT e PyTorch para análise preditiva de safras.  
+> Diferencial: Integração de sensores com Cloud Computing e modelos de IA.
+
+### 🍲 [Sabores](https://github.com/eu-waliston/Sabores)  
+**`FULLSTACK WEB APP`** | Plataforma de receitas culinárias com funcionalidades CRUD, autenticação e design UX/UI moderno.  
+*Stack: Node.js, Express, MongoDB, Vanilla JS, CSS Avançado.*
+
+---
+
+## 🤝 Soft Skills & Cultura de Trabalho
+
+- 💬 **Comunicação Clara:** Habituado a times remotos, documentação eficaz e reports de progresso.
+- 🧩 **Resolução de Problemas:** Pensamento crítico e foco em soluções, não em dificuldades.
+- 📈 **Autodidata & Proativo:** Aprendizado contínuo de novas tecnologias e padrões de mercado.
+- 🌍 **Adaptabilidade Cultural:** Experiência com times globais e diferentes fusos horários.
+
+---
+
+## 📞 Pronto para uma nova conversa?
+
+Estou imediatamente disponível para discutir como posso agregar valor técnico e estratégico à sua empresa.
+
+- **Portfólio:** [waliston-euripedes.vercel.app](https://waliston-euripedes.vercel.app)
+- **GitHub:** [@eu-waliston](https://github.com/eu-waliston)
+- **Email:** `wesantosdev@gmail.com`
+
+<div align="center">
+  <br>
+  ⭐ *"Contrate não apenas um desenvolvedor, mas um parceiro técnico para o seu negócio."*
+</div>
