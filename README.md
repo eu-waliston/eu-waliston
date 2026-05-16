@@ -51,18 +51,25 @@ Testes Automatizados (Jest, Cypress) • Monitoramento (Grafana, Datadog)
 
 ## 📌 Projetos que Falam por Mim
 
-### 🤖 [Jogo Seguro IA]((https://www.jogoseguroia.com.br))
-**`PRODUÇÃO`** | Plataforma SaaS inteligente para análise de comportamento e detecção de riscos.  
-*Stack: Node.js, React, MongoDB, IA/Aprendizado de Máquina, Docker, AWS.*  
-> Impacto: Processamento de dados em tempo real para tomada de decisão crítica.
+### 🏢 [CRM Corporativo](https://github.com/eu-waliston/CRM-Corporativo) *(Deploy: [crm-corporativo-w7ar.vercel.app](https://crm-corporativo-w7ar.vercel.app/login))*
+**`FRONTEND CORPORATIVO`** | Sistema CRM completo com dashboard, autenticação e modo escuro.  
+*Stack: React.js, Redux Toolkit, Tailwind CSS, React Query, Chart.js*  
+> Diferencial: Arquitetura corporativa completa, formulários com validação, CRUD de leads e design system responsivo.
 
-### 🌾 [SmartFarmAI](https://github.com/eu-waliston/SmartFarmAI)  
-**`IOT & MACHINE LEARNING`** | Projeto de monitoramento agrícola inteligente utilizando IoT e PyTorch para análise preditiva de safras.  
-> Diferencial: Integração de sensores com Cloud Computing e modelos de IA.
+### 📋 [Task Management System](https://github.com/eu-waliston/Task-Management-System)
+**`BACKEND + FRONTEND | DDD & ARQUITETURA LIMPA`** | Sistema de tarefas corporativo com Domain-Driven Design.  
+*Stack: TypeScript, Node.js, React 18, MongoDB, Redis, RabbitMQ, Docker, Prometheus + Grafana*  
+> Diferencial: Alta escalabilidade com processamento assíncrono, monitoramento avançado e segurança com JWT + refresh tokens.
 
-### 🍲 [Sabores](https://github.com/eu-waliston/Sabores)  
-**`FULLSTACK WEB APP`** | Plataforma de receitas culinárias com funcionalidades CRUD, autenticação e design UX/UI moderno.  
-*Stack: Node.js, Express, MongoDB, Vanilla JS, CSS Avançado.*
+### 🛒 [MeuCaixa PDV](https://github.com/eu-waliston/MeuCaixa-PDV)
+**`DESKTOP MULTIPLATAFORMA`** | Ponto de Venda moderno para pequenos comércios (Linux & Windows).  
+*Stack: C# (.NET 8), Avalonia UI, SQLite, Entity Framework Core*  
+> Diferencial: Leitura de código de barras, múltiplas formas de pagamento e interface touchscreen.
+
+### 📚 [Library API](https://github.com/eu-waliston/Library-API)
+**`API RESTful BACKEND`** | Gestão completa de biblioteca digital com autenticação e jobs assíncronos.  
+*Stack: Ruby on Rails 7 (API Mode), PostgreSQL, Redis, Sidekiq, JWT, Swagger, Docker*  
+> Diferencial: Sistema de empréstimos com multas automáticas, reservas, notificações por e-mail e documentação OpenAPI.
 
 ---
 
