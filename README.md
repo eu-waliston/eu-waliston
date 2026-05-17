@@ -87,7 +87,6 @@ Testes Automatizados (Jest, Cypress) • Monitoramento (Grafana, Datadog)
 Estou imediatamente disponível para discutir como posso agregar valor técnico e estratégico à sua empresa.
 
 - **Portfólio:** [waliston-euripedes.vercel.app](https://waliston-euripedes.vercel.app)
-- **GitHub:** [@eu-waliston](https://github.com/eu-waliston)
 - **Email:** `wesantosdev@gmail.com`
 
 <div align="center">
