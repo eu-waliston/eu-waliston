@@ -49,30 +49,6 @@ Testes Automatizados (Jest, Cypress) • Monitoramento (Grafana, Datadog)
 
 ---
 
-## 📌 Projetos que Falam por Mim
-
-### 🏢 [CRM Corporativo](https://github.com/eu-waliston/CRM-Corporativo) *(Deploy: [crm-corporativo-w7ar.vercel.app](https://crm-corporativo-w7ar.vercel.app/login))*
-**`FRONTEND CORPORATIVO`** | Sistema CRM completo com dashboard, autenticação e modo escuro.  
-*Stack: React.js, Redux Toolkit, Tailwind CSS, React Query, Chart.js*  
-> Diferencial: Arquitetura corporativa completa, formulários com validação, CRUD de leads e design system responsivo.
-
-### 📋 [Task Management System](https://github.com/eu-waliston/Task-Management-System)
-**`BACKEND + FRONTEND | DDD & ARQUITETURA LIMPA`** | Sistema de tarefas corporativo com Domain-Driven Design.  
-*Stack: TypeScript, Node.js, React 18, MongoDB, Redis, RabbitMQ, Docker, Prometheus + Grafana*  
-> Diferencial: Alta escalabilidade com processamento assíncrono, monitoramento avançado e segurança com JWT + refresh tokens.
-
-### 🛒 [MeuCaixa PDV](https://github.com/eu-waliston/MeuCaixa-PDV)
-**`DESKTOP MULTIPLATAFORMA`** | Ponto de Venda moderno para pequenos comércios (Linux & Windows).  
-*Stack: C# (.NET 8), Avalonia UI, SQLite, Entity Framework Core*  
-> Diferencial: Leitura de código de barras, múltiplas formas de pagamento e interface touchscreen.
-
-### 📚 [Library API](https://github.com/eu-waliston/Library-API)
-**`API RESTful BACKEND`** | Gestão completa de biblioteca digital com autenticação e jobs assíncronos.  
-*Stack: Ruby on Rails 7 (API Mode), PostgreSQL, Redis, Sidekiq, JWT, Swagger, Docker*  
-> Diferencial: Sistema de empréstimos com multas automáticas, reservas, notificações por e-mail e documentação OpenAPI.
-
----
-
 ## 🤝 Soft Skills & Cultura de Trabalho
 
 - 💬 **Comunicação Clara:** Habituado a times remotos, documentação eficaz e reports de progresso.
