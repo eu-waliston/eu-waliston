@@ -446,17 +446,27 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 # 🎯 Atualmente
 
+> Transformando ideias em sistemas, código em soluções e problemas em aprendizado. 🚀
+
 <div align="center">
 
-| 🚀 Desenvolvimento | 🤖 Inteligência | 🔐 Segurança |
-|:---:|:---:|:---:|
-| **Fullstack** | **IA aplicada** | **AppSec** |
-| Construindo aplicações Web e APIs | Explorando soluções inteligentes | Estudando segurança de software |
+🧑‍💻 **Fullstack Development**  
+Construindo aplicações Web, APIs e sistemas completos.
 
-| 🏗️ Arquitetura | 🐳 Infraestrutura | 📚 Evolução |
-|:---:|:---:|:---:|
-| **System Design** | **Docker & Linux** | **Engenharia de Software** |
-| Projetando sistemas escaláveis | Ambientes e containers | Aprendizado contínuo |
+🤖 **Artificial Intelligence**  
+Explorando aplicações práticas de IA e automação.
+
+🔐 **Cybersecurity & AppSec**  
+Estudando segurança de software, vulnerabilidades e proteção de aplicações.
+
+🏗️ **Software Architecture**  
+Aprofundando arquitetura, organização e escalabilidade de sistemas.
+
+🐳 **DevOps & Infrastructure**  
+Trabalhando com Docker, Linux, ambientes e infraestrutura.
+
+📚 **Software Engineering**  
+Evoluindo continuamente em boas práticas, padrões e desenvolvimento profissional.
 
 </div>
 
