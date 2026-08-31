@@ -441,7 +441,7 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eu-waliston\&theme=tokyonight\&hide_border=false)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=false)
 
 </div>
 
