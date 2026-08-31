@@ -424,99 +424,67 @@ Procuro identificar problemas, propor soluções e melhorar processos em vez de 
 Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes processos e me adaptar a diferentes contextos de desenvolvimento.
 
 
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=eu-waliston&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-  />
+<!-- GitHub Stats -->
 
-  <!-- Top Languages -->
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-waliston&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-  />
+<img 
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=eu-waliston&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+/>
 
-</div>
+<!-- Top Languages -->
 
-<br>
-
-<!-- GitHub Streak -->
-
-<div align="center">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img 
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-waliston&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
 <br>
 
-<!-- GitHub Activity Graph -->
+## 🔥 GitHub Streak
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=eu-waliston&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
+<img 
+src="https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </div>
 
 <br>
 
-<!-- GitHub Trophies -->
+## 📈 Contribution Activity
 
 <div align="center">
 
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=eu-waliston&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
-    alt="GitHub Trophies"
-  />
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=eu-waliston&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Activity Graph"
+/>
 
 </div>
 
 <br>
 
-<!-- Profile Summary -->
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eu-waliston&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-
-</div>
-
-<br>
-
-<!-- Stats adicionais -->
-
-<div align="center">
-
-  <img 
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eu-waliston&theme=tokyonight"
-    alt="Repositories per Language"
-  />
-
-  <img 
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eu-waliston&theme=tokyonight"
-    alt="Most Commit Language"
-  />
+<img 
+src="https://github-profile-trophy.vercel.app/?username=eu-waliston&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
+
 
 # 🎯 Atualmente
 
