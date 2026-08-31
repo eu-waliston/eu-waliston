@@ -16,7 +16,7 @@
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=blue\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=eu-waliston\&color=blue\&style=for-the-badge)
 
 </div>
 
