@@ -437,26 +437,6 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=false)
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/eu-waliston/eu-waliston/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 # 🎯 Atualmente
 
 ```text
