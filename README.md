@@ -481,6 +481,7 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 │  📚 ENGINEERING      █████████████████░░░░  EVOLVING       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
