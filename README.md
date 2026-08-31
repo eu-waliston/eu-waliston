@@ -261,19 +261,20 @@ A solução busca facilitar a comunicação entre espectadores e organização d
 
 # 💼 Experiência Profissional
 
-## 🚀 Desenvolvedor Fullstack — Jogo Seguro IA
+---
 
-**2024 – 2025**
+## 🌐 Estágio em Desenvolvimento Web — Viasoft KORP
 
-Atuação no desenvolvimento de uma plataforma web utilizando tecnologias modernas para processamento, análise e visualização de dados.
+**2022**
 
-* 🔌 Desenvolvimento e manutenção de **APIs REST** utilizando Node.js e Express.
-* ⚛️ Desenvolvimento de interfaces e **dashboards interativos com React**.
-* 🗄️ Integração com **MongoDB** para persistência e análise de dados.
-* 📊 Análise de comportamento de usuários e identificação de padrões.
-* ⚡ Otimização de performance e aplicação de boas práticas de segurança.
-* 🔄 Atuação em ambiente de produção com **demandas e requisitos reais de negócio**.
-* 🧩 Participação no ciclo de desenvolvimento, manutenção e evolução da aplicação.
+Primeira experiência profissional diretamente voltada ao desenvolvimento de software, participando da construção e evolução de aplicações web.
+
+* ⚛️ Desenvolvimento frontend utilizando **React e Angular**.
+* 🧩 Criação e manutenção de componentes reutilizáveis.
+* 🧪 Realização de testes e validação de componentes.
+* 🛠️ Correção de problemas e manutenção de funcionalidades existentes.
+* 🚀 Apoio na implementação e evolução de novas funcionalidades.
+* 👥 Atuação em conjunto com profissionais de desenvolvimento durante o ciclo de implementação.
 
 ---
 
@@ -293,18 +294,19 @@ Atuação no suporte e acompanhamento de aplicações corporativas, contribuindo
 
 ---
 
-## 🌐 Estágio em Desenvolvimento Web — Viasoft KORP
+## 🚀 Desenvolvedor Fullstack — Jogo Seguro IA
 
-**2022**
+**2024 – 2025**
 
-Primeira experiência profissional diretamente voltada ao desenvolvimento de software, participando da construção e evolução de aplicações web.
+Atuação no desenvolvimento de uma plataforma web utilizando tecnologias modernas para processamento, análise e visualização de dados.
 
-* ⚛️ Desenvolvimento frontend utilizando **React e Angular**.
-* 🧩 Criação e manutenção de componentes reutilizáveis.
-* 🧪 Realização de testes e validação de componentes.
-* 🛠️ Correção de problemas e manutenção de funcionalidades existentes.
-* 🚀 Apoio na implementação e evolução de novas funcionalidades.
-* 👥 Atuação em conjunto com profissionais de desenvolvimento durante o ciclo de implementação.
+* 🔌 Desenvolvimento e manutenção de **APIs REST** utilizando Node.js e Express.
+* ⚛️ Desenvolvimento de interfaces e **dashboards interativos com React**.
+* 🗄️ Integração com **MongoDB** para persistência e análise de dados.
+* 📊 Análise de comportamento de usuários e identificação de padrões.
+* ⚡ Otimização de performance e aplicação de boas práticas de segurança.
+* 🔄 Atuação em ambiente de produção com **demandas e requisitos reais de negócio**.
+* 🧩 Participação no ciclo de desenvolvimento, manutenção e evolução da aplicação.
 
 ---
 
@@ -439,7 +441,7 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=tokyonight\&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eu-waliston\&theme=tokyonight\&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -449,7 +451,7 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/eu-waliston/eu-waliston/output/github-contribution-grid-snake.svg)
 
 </div>
 
