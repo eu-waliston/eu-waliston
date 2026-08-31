@@ -446,29 +446,41 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 # 🎯 Atualmente
 
-> Transformando ideias em sistemas, código em soluções e problemas em aprendizado. 🚀
+> 🚀 Transformando ideias em sistemas, código em soluções e problemas em aprendizado.
+
+<br>
 
 <div align="center">
 
-🧑‍💻 **Fullstack Development**  
-Construindo aplicações Web, APIs e sistemas completos.
+| 🟢 **ACTIVE** | ⚡ **EXPLORING** | 🔬 **RESEARCH** |
+|:---:|:---:|:---:|
+| 💻 **Fullstack Development** | 🤖 **Artificial Intelligence** | 🔐 **Cybersecurity** |
+| Construindo aplicações Web, APIs e sistemas completos | Explorando IA aplicada, automação e sistemas inteligentes | Estudando AppSec, vulnerabilidades e segurança de software |
 
-🤖 **Artificial Intelligence**  
-Explorando aplicações práticas de IA e automação.
+<br>
 
-🔐 **Cybersecurity & AppSec**  
-Estudando segurança de software, vulnerabilidades e proteção de aplicações.
-
-🏗️ **Software Architecture**  
-Aprofundando arquitetura, organização e escalabilidade de sistemas.
-
-🐳 **DevOps & Infrastructure**  
-Trabalhando com Docker, Linux, ambientes e infraestrutura.
-
-📚 **Software Engineering**  
-Evoluindo continuamente em boas práticas, padrões e desenvolvimento profissional.
+| 🏗️ **BUILDING** | 🐳 **INFRASTRUCTURE** | 📚 **LEARNING** |
+|:---:|:---:|:---:|
+| **Software Architecture** | **Docker & Linux** | **Software Engineering** |
+| Projetando sistemas organizados e escaláveis | Trabalhando com containers, ambientes e infraestrutura | Evoluindo em padrões, boas práticas e arquitetura |
 
 </div>
+
+<br>
+
+### ⚡ Current Focus
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🟢 FULLSTACK        ████████████████████░░  ACTIVE         │
+│  🤖 ARTIFICIAL IA    ████████████████░░░░░  EXPLORING      │
+│  🔐 CYBERSECURITY    ██████████████░░░░░░░  RESEARCH       │
+│  🏗️ ARCHITECTURE     ███████████████░░░░░░  BUILDING       │
+│  🐳 DEVOPS / LINUX   █████████████░░░░░░░░  LEARNING       │
+│  📚 ENGINEERING      █████████████████░░░░  EVOLVING       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 ---
 
