@@ -46,6 +46,39 @@ Tenho especial interesse por:
 
 ---
 
+# 💼 Experiência profissional
+
+### **Megatecnologia** · Desenvolvedor / Analista de Sistemas
+**2026**
+
+- Levantamento e análise de requisitos para sistemas corporativos e processos de negócio.
+- Investigação de falhas, execução de testes e documentação de comportamentos do sistema.
+- Modelagem de fluxos de processo e apoio à comunicação entre áreas técnicas e usuários.
+- Atuação com a plataforma SILAS BPMS, conectando necessidades operacionais a soluções de software.
+
+### **Jogo Seguro IA** · Desenvolvedor Full Stack
+**2024 – 2025**
+
+- Desenvolvimento e manutenção de APIs com Node.js e Express.
+- Construção de dashboards e interfaces web com React.
+- Integração com MongoDB e apoio à melhoria de desempenho e segurança das aplicações.
+
+### **SysMap Solutions** · Analista de Suporte
+**2023 – 2024**
+
+- Monitoramento e suporte a aplicações corporativas.
+- Investigação de incidentes, análise de falhas e documentação técnica.
+- Colaboração com equipes técnicas para encaminhar e resolver problemas.
+
+### **Viasoft KORP** · Estágio em Desenvolvimento Web
+**2022**
+
+- Desenvolvimento e manutenção de interfaces com React e Angular.
+- Criação e ajuste de componentes reutilizáveis.
+- Correção de bugs, validações e apoio a testes de aplicações.
+
+---
+
 # 🧠 Como eu penso software
 
 Desenvolvimento começa pela compreensão do problema e evolui por um ciclo claro: **entender requisitos → modelar → projetar → implementar → testar → documentar → evoluir**.
