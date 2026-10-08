@@ -171,91 +171,57 @@ Essa visão me permite atuar não somente como programador, mas como alguém cap
 
 # 🚀 Projetos em Destaque
 
-> Alguns projetos representam estudos, outros experimentações e outros problemas reais de desenvolvimento. Em comum, todos fazem parte da minha evolução como engenheiro de software.
+> Os seis projetos fixados no meu perfil, com links para seus repositórios e landing pages para conhecer cada solução.
 
 ---
 
-## 🛡️ Vigia
+## 🔐 [AuthFlow API](https://github.com/eu-waliston/AUTHFLOW-API) · [🌐 Landing page](https://authflow-api-authflow-landing.vercel.app/)
 
-### Software de Análise de Segurança com Inteligência Artificial
+API empresarial de autenticação e autorização, com gerenciamento de usuários, controle de acesso por papéis e recursos de segurança para aplicações.
 
-Plataforma voltada à análise inteligente de aplicações para identificação e investigação de **vulnerabilidades, bugs e falhas de segurança**.
-
-O projeto explora a aplicação de **Inteligência Artificial no processo de análise de software**, buscando transformar grandes volumes de informações técnicas em resultados mais compreensíveis e acionáveis.
-
-**Foco:**
-
-`Artificial Intelligence` `Cybersecurity` `Software Analysis` `Automation`
+**Tecnologias:** `Node.js` `JavaScript` `Express` `JWT` `PostgreSQL` `Redis` `Docker`
 
 ---
 
-## 🛒 CompraIA
+## 🛒 [Smart Shopping API](https://github.com/eu-waliston/SMART-SHOPPING-API) · [🌐 Landing page](https://smart-shopping-api-smart-landing.vercel.app/)
 
-### Lista de compras inteligente
+Backend para uma plataforma inteligente de listas de compras, com gerenciamento de itens, mercados e promoções geolocalizadas para ajudar usuários a encontrar ofertas próximas.
 
-Aplicação web desenvolvida para criação, organização e gerenciamento de listas de compras, incorporando recursos de **Inteligência Artificial** para tornar o processo mais inteligente.
-
-**Stack:**
-
-`MongoDB` `Express` `React` `Node.js` `AI`
-
-**Conceitos explorados:**
-
-* Arquitetura Fullstack
-* API REST
-* Persistência de dados
-* Integração com IA
-* Interface responsiva
-* Organização modular
+**Tecnologias:** `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `JWT` `Geolocalização`
 
 ---
 
-## 🖥️ TechCare
+## 💳 [Payment Gateway](https://github.com/eu-waliston/PAYMENT-GATEWAY)
 
-### Gestão de assistência técnica
+Gateway de pagamentos em JavaScript, com arquitetura modular, provedores simulados, webhooks e mecanismos de prevenção a fraudes.
 
-Sistema Fullstack desenvolvido para gerenciamento de serviços de **assistência técnica e manutenção de computadores**.
+**Tecnologias e conceitos:** `JavaScript` `Payments` `Webhooks` `Fraud Prevention` `Modular Architecture`
 
-O projeto contempla conceitos de autenticação, gerenciamento de usuários, equipamentos, serviços e fluxo de atendimento.
-
-**Stack:**
-
-`React` `Node.js` `TypeScript` `MongoDB` `Docker` `JWT`
+> A URL da landing page deste projeto não foi identificada nos links enviados; o repositório está disponível acima.
 
 ---
 
-## 🚔 Sistema de Gestão Policial
+## 🛡️ [SentinelNet](https://github.com/eu-waliston/SENTINEL-NET) · [🌐 Landing page](https://sentinel-net-omega.vercel.app/)
 
-### Plataforma Web para gerenciamento de ocorrências
+Plataforma experimental de Cyber Threat Intelligence para coletar, correlacionar e analisar indicadores de infraestrutura, como domínios, IPs, ASN, certificados TLS e registros DNS, apoiando a investigação de possíveis ameaças.
 
-Aplicação desenvolvida com foco em organização e gerenciamento de informações relacionadas a **ocorrências e registros policiais**.
-
-O projeto trabalha conceitos de:
-
-* Autenticação
-* APIs REST
-* Banco de dados
-* Arquitetura modular
-* Gerenciamento de ocorrências
-* Interface administrativa
-
-**Stack:**
-
-`React` `Node.js` `MongoDB` `REST API`
+**Tecnologias e conceitos:** `TypeScript` `Node.js` `Python` `React` `MongoDB` `Threat Intelligence` `Risk Scoring`
 
 ---
 
-## ♿ Sistema de Acessibilidade
+## 🚔 [SentinelOps](https://github.com/eu-waliston/SentinelOps) · [🌐 Landing page](https://sentinel-ops-one.vercel.app/)
 
-### Teatro Caixa Preta • UFSM
+Sistema web para centralizar registros de ocorrências, consultas de veículos e gerenciamento de informações operacionais, com foco em organização e análise inteligente de dados.
 
-Sistema web voltado à **solicitação e organização de recursos de acessibilidade** para apresentações culturais.
+**Tecnologias e conceitos:** `TypeScript` `Web Application` `Operational Data` `Information Management`
 
-A solução busca facilitar a comunicação entre espectadores e organização do evento, permitindo que necessidades de acessibilidade sejam informadas antecipadamente.
+---
 
-**Foco:**
+## 🔔 [Notification Service](https://github.com/eu-waliston/Notification-Service) · [🌐 Landing page](https://notification-service-notification-s.vercel.app/)
 
-`Web Accessibility` `UX` `WordPress` `Elementor` `Cultural Technology`
+Serviço centralizado de notificações corporativas com API REST, templates por canal, processamento assíncrono, histórico e auditoria. Suporta integrações para e-mail, Teams, WhatsApp e SMS.
+
+**Tecnologias:** `Python` `FastAPI` `Redis` `PostgreSQL` `Docker` `REST API` `Jinja2`
 
 ---
 
