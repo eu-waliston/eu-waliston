@@ -2,9 +2,9 @@
 
 # ⚡ Waliston Euripedes
 
-### Fullstack Developer • Software Engineer • Problem Solver
+### Full Stack Developer | Backend & API Engineering | Node.js · TypeScript
 
-**Transformando problemas reais em software funcional, escalável e de alto impacto.**
+**Construo aplicações web e APIs com foco em arquitetura, segurança e resolução de problemas reais.**
 
 <br>
 
@@ -24,75 +24,19 @@
 
 # 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Fullstack** com experiência prática no desenvolvimento, manutenção e evolução de aplicações e sistemas de negócio.
+Sou desenvolvedor de software com experiência prática em desenvolvimento web, APIs e sistemas corporativos. Trabalho principalmente com **JavaScript, TypeScript, Node.js e React**, integrando bancos de dados e serviços para transformar requisitos em funcionalidades utilizáveis.
 
-Atuo principalmente no ecossistema **JavaScript/TypeScript**, desenvolvendo soluções com **Node.js, React, MongoDB e MySQL**, além de trabalhar com APIs, autenticação, containers, Linux, Git e arquitetura de software.
+Gosto de investigar problemas, entender regras de negócio e construir soluções que sejam claras de manter e evoluir. Também exploro **Inteligência Artificial aplicada e segurança de aplicações (AppSec)** por meio de projetos práticos.
 
-Minha abordagem combina **desenvolvimento, análise de requisitos e resolução de problemas**, buscando entender não apenas *como* implementar uma funcionalidade, mas principalmente **por que ela existe e qual problema precisa resolver**.
-
-Tenho especial interesse por:
-
-* 🏗️ Arquitetura e engenharia de software
-* 🌐 Aplicações Web
-* ⚙️ Backend e APIs
-* 🤖 Inteligência Artificial aplicada
-* 🔐 Segurança de aplicações
-* 🗄️ Sistemas orientados a dados
-* 🐳 Docker e infraestrutura
-* ☁️ Ambientes cloud
-* 🧩 Sistemas corporativos e processos de negócio
-
-> 🚀 **Meu objetivo é transformar problemas complexos em soluções de software simples, organizadas e sustentáveis.**
-
----
+**Áreas de interesse:** Backend e APIs · Desenvolvimento Full Stack · Engenharia de Software · Arquitetura · Segurança de aplicações · IA aplicada
 
 # 🧠 Como eu penso software
 
-Para mim, desenvolvimento não começa no editor de código.
+Prefiro começar pelo problema e pelas regras de negócio, antes de escolher a tecnologia. Meu fluxo de trabalho costuma seguir esta sequência:
 
-Começa no problema.
+`Entender → Especificar → Modelar → Implementar → Testar → Documentar → Evoluir`
 
-```text
-┌──────────────────────┐
-│      PROBLEMA        │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  Requisitos & Regras │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      Modelagem       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     Arquitetura      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Backend + Frontend   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Banco + Integrações  │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Testes & Validação   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Deploy & Observação  │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Evolução do Produto  │
-└──────────────────────┘
-```
-
-Essa visão me permite atuar não somente como programador, mas como alguém capaz de participar de diferentes etapas do **ciclo de vida de uma solução de software**.
-
----
+Isso ajuda a manter o foco no propósito da solução, não apenas em escrever código.
 
 # ⚙️ Tech Stack
 
@@ -155,19 +99,14 @@ Essa visão me permite atuar não somente como programador, mas como alguém cap
 
 # 🛠️ Ferramentas & Ambiente
 
-| Categoria              | Tecnologias                   |
-| ---------------------- | ----------------------------- |
-| **Editor**             | VS Code                       |
-| **Controle de versão** | Git / GitHub                  |
-| **API & Testes**       | Postman / Insomnia            |
-| **Containers**         | Docker / Docker Compose       |
-| **Servidor**           | Nginx / Linux                 |
-| **Deploy**             | Vercel / Netlify / AWS        |
-| **Banco**              | MongoDB / MySQL               |
-| **Metodologias**       | Scrum / TDD / Code Review     |
-| **Desenvolvimento**    | Pair Programming / Clean Code |
+| Uso | Ferramentas |
+|---|---|
+| Desenvolvimento | VS Code, Git, GitHub |
+| APIs e integração | Postman, Insomnia, REST |
+| Ambiente e deploy | Linux, Docker, Docker Compose, Nginx, Vercel |
+| Organização e qualidade | Documentação técnica, testes, revisão e refatoração |
 
----
+> As tecnologias listadas refletem ferramentas utilizadas ou exploradas em projetos. O contexto de cada projeto aparece na seção de destaques.
 
 # 🚀 Projetos em Destaque
 
@@ -227,73 +166,40 @@ Serviço centralizado de notificações corporativas com API REST, templates por
 
 # 💼 Experiência Profissional
 
----
-
 ## 🌐 Estágio em Desenvolvimento Web — Viasoft KORP
-
 **2022**
 
-Primeira experiência profissional diretamente voltada ao desenvolvimento de software, participando da construção e evolução de aplicações web.
-
-* ⚛️ Desenvolvimento frontend utilizando **React e Angular**.
-* 🧩 Criação e manutenção de componentes reutilizáveis.
-* 🧪 Realização de testes e validação de componentes.
-* 🛠️ Correção de problemas e manutenção de funcionalidades existentes.
-* 🚀 Apoio na implementação e evolução de novas funcionalidades.
-* 👥 Atuação em conjunto com profissionais de desenvolvimento durante o ciclo de implementação.
-
----
+- Desenvolvimento e manutenção de interfaces web com React e Angular.
+- Criação e ajuste de componentes reutilizáveis.
+- Correção de problemas e validação de funcionalidades.
+- Colaboração com a equipe durante a implementação de melhorias.
 
 ## 🖥️ Analista de Suporte — SysMap Solutions
+**2023–2024**
 
-**2023 – 2024**
+- Monitoramento e suporte a aplicações e ambientes corporativos.
+- Investigação inicial de incidentes e análise de possíveis causas.
+- Registro de ocorrências e documentação de procedimentos.
+- Articulação com equipes técnicas para acompanhar a resolução de problemas.
 
-Atuação no suporte e acompanhamento de aplicações corporativas, contribuindo para a identificação de problemas e manutenção da disponibilidade dos sistemas.
+## 🚀 Desenvolvedor Full Stack — Jogo Seguro IA
+**2024–2025**
 
-* 📡 Monitoramento de aplicações e ambientes corporativos.
-* 🔎 Identificação de anomalias e análise de tendências.
-* 🧠 Investigação de problemas e apoio na identificação de possíveis causas.
-* 🤝 Suporte técnico às equipes de desenvolvimento.
-* 📝 Documentação de incidentes, ocorrências e estratégias de resolução.
-* 🚨 Acompanhamento de situações relacionadas à estabilidade e funcionamento das aplicações.
-* 🔄 Comunicação entre equipes técnicas durante processos de investigação e resolução.
-
----
-
-## 🚀 Desenvolvedor Fullstack — Jogo Seguro IA
-
-**2024 – 2025**
-
-Atuação no desenvolvimento de uma plataforma web utilizando tecnologias modernas para processamento, análise e visualização de dados.
-
-* 🔌 Desenvolvimento e manutenção de **APIs REST** utilizando Node.js e Express.
-* ⚛️ Desenvolvimento de interfaces e **dashboards interativos com React**.
-* 🗄️ Integração com **MongoDB** para persistência e análise de dados.
-* 📊 Análise de comportamento de usuários e identificação de padrões.
-* ⚡ Otimização de performance e aplicação de boas práticas de segurança.
-* 🔄 Atuação em ambiente de produção com **demandas e requisitos reais de negócio**.
-* 🧩 Participação no ciclo de desenvolvimento, manutenção e evolução da aplicação.
-
----
+- Desenvolvimento e manutenção de APIs REST com Node.js e Express.
+- Construção de interfaces e dashboards com React.
+- Integração com MongoDB para persistência e consulta de dados.
+- Participação na evolução da aplicação, com atenção a desempenho e segurança.
 
 ## ⚙️ Desenvolvedor / Analista de Sistemas — Megatecnologia
+**2026**
 
-**2026 – 2026**
+- Análise de requisitos, regras de negócio e fluxos de sistemas corporativos.
+- Investigação de bugs e inconsistências, com testes para validar comportamentos.
+- Documentação técnica e funcional, incluindo casos de uso.
+- Suporte à manutenção e evolução de módulos na plataforma SILAS (BPMS).
+- Comunicação com clientes e equipes técnicas para esclarecer necessidades e validar soluções.
 
-Atuação no desenvolvimento, suporte e evolução de soluções corporativas utilizando a plataforma **SILAS — BPMS**, aproximando desenvolvimento de software, processos de negócio e necessidades reais dos usuários.
-
-* 🔎 Análise de requisitos e regras de negócio.
-* 🧩 Elaboração e documentação de casos de uso.
-* 🐞 Investigação de bugs e inconsistências.
-* 🧪 Testes e validação de funcionalidades.
-* 🔄 Análise de fluxos e processos de negócio.
-* 📋 Documentação técnica e funcional.
-* 🛠️ Suporte à evolução e manutenção de módulos.
-* 💬 Comunicação com clientes e equipes técnicas.
-* ⚙️ Análise de comportamentos inesperados e identificação de possíveis causas.
-* 📈 Participação na melhoria contínua dos sistemas e processos.
-
----
+*Descrições resumidas das atividades, sem métricas de impacto não verificadas.*
 
 # 🎓 Projetos Acadêmicos & Pesquisa
 
@@ -322,134 +228,43 @@ Projeto de pesquisa e desenvolvimento focado na utilização de **Inteligência 
 * 📊 Organização e interpretação de resultados.
 * 🔬 Pesquisa de técnicas e ferramentas relacionadas à segurança de aplicações.
 
-
 ---
 
 # 🏗️ Engenharia de Software
 
-Além das tecnologias, busco desenvolver uma base sólida em engenharia de software.
+- **Arquitetura:** organização em camadas, modularização, separação de responsabilidades e APIs REST.
+- **Segurança:** autenticação, autorização, validação de dados e fundamentos de análise de vulnerabilidades.
+- **Qualidade:** legibilidade, refatoração, testes e documentação técnica.
+- **Análise:** levantamento de requisitos, regras de negócio, modelagem e casos de uso.
 
-### Arquitetura
+# 🤝 Forma de trabalhar
 
-* MVC
-* Arquitetura Modular
-* Separação de responsabilidades
-* Organização de camadas
-* APIs REST
-* Integração entre serviços
-
-### Segurança
-
-* Autenticação
-* Autorização
-* JWT
-* Validação de dados
-* Boas práticas de segurança
-* Análise de vulnerabilidades
-
-### Qualidade
-
-* Clean Code
-* Testes automatizados
-* TDD
-* Code Review
-* Refatoração
-* Documentação técnica
-
-### Processos
-
-* Scrum
-* Levantamento de requisitos
-* Modelagem de sistemas
-* Regras de negócio
-* Casos de uso
-* Versionamento com Git
-
----
-
-# 🤝 Soft Skills & Cultura de Trabalho
-
-### 💬 Comunicação
-
-Busco manter uma comunicação clara, objetiva e transparente, especialmente durante análise de problemas, desenvolvimento e acompanhamento de tarefas.
-
-### 🧩 Resolução de problemas
-
-Tenho perfil investigativo e gosto de entender a causa de um problema antes de simplesmente aplicar uma solução.
-
-### 📚 Aprendizado contínuo
-
-Tecnologia muda rápido. Por isso, mantenho uma postura de aprendizado constante e gosto de experimentar novas ferramentas através de projetos práticos.
-
-### 🚀 Proatividade
-
-Procuro identificar problemas, propor soluções e melhorar processos em vez de apenas executar tarefas de forma mecânica.
-
-### 🌎 Adaptabilidade
-
-Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes processos e me adaptar a diferentes contextos de desenvolvimento.
-
----
-
----
+- **Investigação:** procuro entender a causa do problema antes de propor a solução.
+- **Comunicação:** registro decisões e compartilho informações de forma objetiva.
+- **Colaboração:** trabalho com diferentes perfis técnicos e de negócio.
+- **Aprendizado contínuo:** estudo novas ferramentas por meio de experimentação e projetos práticos.
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img src="https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eu-waliston&theme=tokyonight" alt="GitHub profile activity summary" />
 
 </div>
 
-<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eu-waliston&theme=tokyonight" alt="Repositories per Language" />
-
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eu-waliston&theme=tokyonight" alt="GitHub Profile Details" /> </div>
-
----
+> Os cartões dependem de serviços externos e podem ficar temporariamente indisponíveis. Para avaliar meu trabalho, consulte também os repositórios e projetos destacados acima.
 
 # 🎯 Atualmente
 
-> 🚀 Transformando ideias em sistemas, código em soluções e problemas em aprendizado.
+- **Desenvolvimento:** construção e evolução de aplicações web e APIs.
+- **Arquitetura:** organização de código, modularidade e integração entre serviços.
+- **IA aplicada:** experimentação com soluções inteligentes em projetos práticos.
+- **Segurança:** estudo de AppSec, análise de ameaças e práticas para reduzir riscos.
+- **Ambiente:** uso de Linux, Git e Docker no desenvolvimento.
 
-<br>
-
-<div align="center">
-
-| 🟢 **ACTIVE** | ⚡ **EXPLORING** | 🔬 **RESEARCH** |
-|:---:|:---:|:---:|
-| 💻 **Fullstack Development** | 🤖 **Artificial Intelligence** | 🔐 **Cybersecurity** |
-| Construindo aplicações Web, APIs e sistemas completos | Explorando IA aplicada, automação e sistemas inteligentes | Estudando AppSec, vulnerabilidades e segurança de software |
-
-<br>
-
-| 🏗️ **BUILDING** | 🐳 **INFRASTRUCTURE** | 📚 **LEARNING** |
-|:---:|:---:|:---:|
-| **Software Architecture** | **Docker & Linux** | **Software Engineering** |
-| Projetando sistemas organizados e escaláveis | Trabalhando com containers, ambientes e infraestrutura | Evoluindo em padrões, boas práticas e arquitetura |
-
-</div>
-
-<br>
-
-### ⚡ Current Focus
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🟢 FULLSTACK        ████████████████████░░  ACTIVE         │
-│  🤖 ARTIFICIAL IA    ████████████████░░░░░  EXPLORING      │
-│  🔐 CYBERSECURITY    ██████████████░░░░░░░  RESEARCH       │
-│  🏗️ ARCHITECTURE     ███████████████░░░░░░  BUILDING       │
-│  🐳 DEVOPS / LINUX   █████████████░░░░░░░░  LEARNING       │
-│  📚 ENGINEERING      █████████████████░░░░  EVOLVING       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
+Esses são focos de estudo e desenvolvimento, não níveis de proficiência ou percentuais de progresso.
 
 # 🌎 Objetivo profissional
 
