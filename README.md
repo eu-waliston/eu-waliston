@@ -312,7 +312,7 @@ Atuação no desenvolvimento de uma plataforma web utilizando tecnologias modern
 
 ## ⚙️ Desenvolvedor / Analista de Sistemas — Megatecnologia
 
-**Atual**
+**2026 – 2026**
 
 Atuação no desenvolvimento, suporte e evolução de soluções corporativas utilizando a plataforma **SILAS — BPMS**, aproximando desenvolvimento de software, processos de negócio e necessidades reais dos usuários.
 
