@@ -2,7 +2,9 @@
 
 # ⚡ Waliston Euripedes
 
-### Fullstack Developer • Software Engineer • Problem Solver
+### Full Stack Developer | Backend & API Engineering
+
+`Node.js` · `TypeScript` · `React` · `SQL/NoSQL` · `Docker`
 
 **Transformando problemas reais em software funcional, escalável e de alto impacto.**
 
@@ -24,11 +26,9 @@
 
 # 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Fullstack** com experiência prática no desenvolvimento, manutenção e evolução de aplicações e sistemas de negócio.
+Sou **Desenvolvedor Full Stack**, com experiência prática em desenvolvimento web, APIs e sistemas de negócio. Trabalho principalmente com **JavaScript, TypeScript, Node.js e React**, integrando bancos de dados SQL/NoSQL, autenticação e serviços.
 
-Atuo principalmente no ecossistema **JavaScript/TypeScript**, desenvolvendo soluções com **Node.js, React, MongoDB e MySQL**, além de trabalhar com APIs, autenticação, containers, Linux, Git e arquitetura de software.
-
-Minha abordagem combina **desenvolvimento, análise de requisitos e resolução de problemas**, buscando entender não apenas *como* implementar uma funcionalidade, mas principalmente **por que ela existe e qual problema precisa resolver**.
+Combino implementação técnica com **análise de requisitos, investigação de problemas e compreensão das regras de negócio**. Meu foco é construir software organizado, seguro e sustentável, com atenção à arquitetura, à manutenção e à experiência de quem utiliza a solução.
 
 Tenho especial interesse por:
 
@@ -48,49 +48,64 @@ Tenho especial interesse por:
 
 # 🧠 Como eu penso software
 
-Para mim, desenvolvimento não começa no editor de código.
+Desenvolvimento começa pela compreensão do problema e evolui por um ciclo claro: **entender requisitos → modelar → projetar → implementar → testar → documentar → evoluir**.
 
-Começa no problema.
+Essa abordagem conecta decisões técnicas às necessidades do negócio e ajuda a construir soluções que possam ser mantidas e aprimoradas ao longo do tempo.
 
-```text
-┌──────────────────────┐
-│      PROBLEMA        │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  Requisitos & Regras │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      Modelagem       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     Arquitetura      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Backend + Frontend   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Banco + Integrações  │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Testes & Validação   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Deploy & Observação  │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Evolução do Produto  │
-└──────────────────────┘
-```
+---
 
-Essa visão me permite atuar não somente como programador, mas como alguém capaz de participar de diferentes etapas do **ciclo de vida de uma solução de software**.
+# 🚀 Projetos em Destaque
+
+Projetos autorais e demonstrativos que mostram diferentes frentes de desenvolvimento. Cada repositório contém o código e, quando disponível, uma demonstração online.
+
+---
+
+## 🔐 [AuthFlow API](https://github.com/eu-waliston/AUTHFLOW-API) · [🌐 Landing page](https://authflow-api-authflow-landing.vercel.app/)
+
+API empresarial de autenticação e autorização, com gerenciamento de usuários, controle de acesso por papéis e recursos de segurança para aplicações.
+
+**Tecnologias:** `Node.js` `JavaScript` `Express` `JWT` `PostgreSQL` `Redis` `Docker`
+
+---
+
+## 🛒 [Smart Shopping API](https://github.com/eu-waliston/SMART-SHOPPING-API) · [🌐 Landing page](https://smart-shopping-api-smart-landing.vercel.app/)
+
+Backend para uma plataforma inteligente de listas de compras, com gerenciamento de itens, mercados e promoções geolocalizadas para ajudar usuários a encontrar ofertas próximas.
+
+**Tecnologias:** `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `JWT` `Geolocalização`
+
+---
+
+## 💳 [Payment Gateway](https://github.com/eu-waliston/PAYMENT-GATEWAY)
+
+Gateway de pagamentos em JavaScript, com arquitetura modular, provedores simulados, webhooks e mecanismos de prevenção a fraudes.
+
+**Tecnologias e conceitos:** `JavaScript` `Payments` `Webhooks` `Fraud Prevention` `Modular Architecture`
+
+
+---
+
+## 🛡️ [SentinelNet](https://github.com/eu-waliston/SENTINEL-NET) · [🌐 Landing page](https://sentinel-net-omega.vercel.app/)
+
+Plataforma experimental de Cyber Threat Intelligence para coletar, correlacionar e analisar indicadores de infraestrutura, como domínios, IPs, ASN, certificados TLS e registros DNS, apoiando a investigação de possíveis ameaças.
+
+**Tecnologias e conceitos:** `TypeScript` `Node.js` `Python` `React` `MongoDB` `Threat Intelligence` `Risk Scoring`
+
+---
+
+## 🚔 [SentinelOps](https://github.com/eu-waliston/SentinelOps) · [🌐 Landing page](https://sentinel-ops-one.vercel.app/)
+
+Sistema web para centralizar registros de ocorrências, consultas de veículos e gerenciamento de informações operacionais, com foco em organização e análise inteligente de dados.
+
+**Tecnologias e conceitos:** `TypeScript` `Web Application` `Operational Data` `Information Management`
+
+---
+
+## 🔔 [Notification Service](https://github.com/eu-waliston/Notification-Service) · [🌐 Landing page](https://notification-service-notification-s.vercel.app/)
+
+Serviço centralizado de notificações corporativas com API REST, templates por canal, processamento assíncrono, histórico e auditoria. Suporta integrações para e-mail, Teams, WhatsApp e SMS.
+
+**Tecnologias:** `Python` `FastAPI` `Redis` `PostgreSQL` `Docker` `REST API` `Jinja2`
 
 ---
 
@@ -150,178 +165,6 @@ Essa visão me permite atuar não somente como programador, mas como alguém cap
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=white)
-
----
-
-# 🛠️ Ferramentas & Ambiente
-
-| Categoria              | Tecnologias                   |
-| ---------------------- | ----------------------------- |
-| **Editor**             | VS Code                       |
-| **Controle de versão** | Git / GitHub                  |
-| **API & Testes**       | Postman / Insomnia            |
-| **Containers**         | Docker / Docker Compose       |
-| **Servidor**           | Nginx / Linux                 |
-| **Deploy**             | Vercel / Netlify / AWS        |
-| **Banco**              | MongoDB / MySQL               |
-| **Metodologias**       | Scrum / TDD / Code Review     |
-| **Desenvolvimento**    | Pair Programming / Clean Code |
-
----
-
-# 🚀 Projetos em Destaque
-
-> Os seis projetos fixados no meu perfil, com links para seus repositórios e landing pages para conhecer cada solução.
-
----
-
-## 🔐 [AuthFlow API](https://github.com/eu-waliston/AUTHFLOW-API) · [🌐 Landing page](https://authflow-api-authflow-landing.vercel.app/)
-
-API empresarial de autenticação e autorização, com gerenciamento de usuários, controle de acesso por papéis e recursos de segurança para aplicações.
-
-**Tecnologias:** `Node.js` `JavaScript` `Express` `JWT` `PostgreSQL` `Redis` `Docker`
-
----
-
-## 🛒 [Smart Shopping API](https://github.com/eu-waliston/SMART-SHOPPING-API) · [🌐 Landing page](https://smart-shopping-api-smart-landing.vercel.app/)
-
-Backend para uma plataforma inteligente de listas de compras, com gerenciamento de itens, mercados e promoções geolocalizadas para ajudar usuários a encontrar ofertas próximas.
-
-**Tecnologias:** `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `JWT` `Geolocalização`
-
----
-
-## 💳 [Payment Gateway](https://github.com/eu-waliston/PAYMENT-GATEWAY)
-
-Gateway de pagamentos em JavaScript, com arquitetura modular, provedores simulados, webhooks e mecanismos de prevenção a fraudes.
-
-**Tecnologias e conceitos:** `JavaScript` `Payments` `Webhooks` `Fraud Prevention` `Modular Architecture`
-
-> A URL da landing page deste projeto não foi identificada nos links enviados; o repositório está disponível acima.
-
----
-
-## 🛡️ [SentinelNet](https://github.com/eu-waliston/SENTINEL-NET) · [🌐 Landing page](https://sentinel-net-omega.vercel.app/)
-
-Plataforma experimental de Cyber Threat Intelligence para coletar, correlacionar e analisar indicadores de infraestrutura, como domínios, IPs, ASN, certificados TLS e registros DNS, apoiando a investigação de possíveis ameaças.
-
-**Tecnologias e conceitos:** `TypeScript` `Node.js` `Python` `React` `MongoDB` `Threat Intelligence` `Risk Scoring`
-
----
-
-## 🚔 [SentinelOps](https://github.com/eu-waliston/SentinelOps) · [🌐 Landing page](https://sentinel-ops-one.vercel.app/)
-
-Sistema web para centralizar registros de ocorrências, consultas de veículos e gerenciamento de informações operacionais, com foco em organização e análise inteligente de dados.
-
-**Tecnologias e conceitos:** `TypeScript` `Web Application` `Operational Data` `Information Management`
-
----
-
-## 🔔 [Notification Service](https://github.com/eu-waliston/Notification-Service) · [🌐 Landing page](https://notification-service-notification-s.vercel.app/)
-
-Serviço centralizado de notificações corporativas com API REST, templates por canal, processamento assíncrono, histórico e auditoria. Suporta integrações para e-mail, Teams, WhatsApp e SMS.
-
-**Tecnologias:** `Python` `FastAPI` `Redis` `PostgreSQL` `Docker` `REST API` `Jinja2`
-
----
-
-# 💼 Experiência Profissional
-
----
-
-## 🌐 Estágio em Desenvolvimento Web — Viasoft KORP
-
-**2022**
-
-Primeira experiência profissional diretamente voltada ao desenvolvimento de software, participando da construção e evolução de aplicações web.
-
-* ⚛️ Desenvolvimento frontend utilizando **React e Angular**.
-* 🧩 Criação e manutenção de componentes reutilizáveis.
-* 🧪 Realização de testes e validação de componentes.
-* 🛠️ Correção de problemas e manutenção de funcionalidades existentes.
-* 🚀 Apoio na implementação e evolução de novas funcionalidades.
-* 👥 Atuação em conjunto com profissionais de desenvolvimento durante o ciclo de implementação.
-
----
-
-## 🖥️ Analista de Suporte — SysMap Solutions
-
-**2023 – 2024**
-
-Atuação no suporte e acompanhamento de aplicações corporativas, contribuindo para a identificação de problemas e manutenção da disponibilidade dos sistemas.
-
-* 📡 Monitoramento de aplicações e ambientes corporativos.
-* 🔎 Identificação de anomalias e análise de tendências.
-* 🧠 Investigação de problemas e apoio na identificação de possíveis causas.
-* 🤝 Suporte técnico às equipes de desenvolvimento.
-* 📝 Documentação de incidentes, ocorrências e estratégias de resolução.
-* 🚨 Acompanhamento de situações relacionadas à estabilidade e funcionamento das aplicações.
-* 🔄 Comunicação entre equipes técnicas durante processos de investigação e resolução.
-
----
-
-## 🚀 Desenvolvedor Fullstack — Jogo Seguro IA
-
-**2024 – 2025**
-
-Atuação no desenvolvimento de uma plataforma web utilizando tecnologias modernas para processamento, análise e visualização de dados.
-
-* 🔌 Desenvolvimento e manutenção de **APIs REST** utilizando Node.js e Express.
-* ⚛️ Desenvolvimento de interfaces e **dashboards interativos com React**.
-* 🗄️ Integração com **MongoDB** para persistência e análise de dados.
-* 📊 Análise de comportamento de usuários e identificação de padrões.
-* ⚡ Otimização de performance e aplicação de boas práticas de segurança.
-* 🔄 Atuação em ambiente de produção com **demandas e requisitos reais de negócio**.
-* 🧩 Participação no ciclo de desenvolvimento, manutenção e evolução da aplicação.
-
----
-
-## ⚙️ Desenvolvedor / Analista de Sistemas — Megatecnologia
-
-**2026 – 2026**
-
-Atuação no desenvolvimento, suporte e evolução de soluções corporativas utilizando a plataforma **SILAS — BPMS**, aproximando desenvolvimento de software, processos de negócio e necessidades reais dos usuários.
-
-* 🔎 Análise de requisitos e regras de negócio.
-* 🧩 Elaboração e documentação de casos de uso.
-* 🐞 Investigação de bugs e inconsistências.
-* 🧪 Testes e validação de funcionalidades.
-* 🔄 Análise de fluxos e processos de negócio.
-* 📋 Documentação técnica e funcional.
-* 🛠️ Suporte à evolução e manutenção de módulos.
-* 💬 Comunicação com clientes e equipes técnicas.
-* ⚙️ Análise de comportamentos inesperados e identificação de possíveis causas.
-* 📈 Participação na melhoria contínua dos sistemas e processos.
-
----
-
-# 🎓 Projetos Acadêmicos & Pesquisa
-
-## ♿ Sistema de Acessibilidade — Teatro Caixa Preta / UFSM
-
-Projeto voltado ao desenvolvimento de uma solução digital para facilitar a solicitação e organização de **recursos de acessibilidade em apresentações culturais**.
-
-* ♿ Pesquisa sobre acessibilidade digital.
-* 📋 Levantamento e análise de requisitos.
-* 🧩 Modelagem da solução.
-* 🌐 Desenvolvimento da interface web.
-* 🎨 Implementação utilizando WordPress e Elementor.
-* 📊 Organização das informações relacionadas às necessidades de acessibilidade.
-* 🎭 Aplicação da tecnologia em um contexto cultural e social real.
-
----
-
-## 🛡️ Vigia — Análise de Segurança com IA
-
-Projeto de pesquisa e desenvolvimento focado na utilização de **Inteligência Artificial aplicada à análise de segurança de software**.
-
-* 🤖 Exploração de IA aplicada à análise de código.
-* 🔐 Identificação de possíveis vulnerabilidades.
-* 🐞 Investigação de bugs e falhas.
-* 🏗️ Desenvolvimento de arquitetura para análise automatizada.
-* 📊 Organização e interpretação de resultados.
-* 🔬 Pesquisa de técnicas e ferramentas relacionadas à segurança de aplicações.
-
 
 ---
 
@@ -391,63 +234,23 @@ Tenho facilidade para aprender novas tecnologias, trabalhar com diferentes proce
 
 ---
 
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img src="https://streak-stats.demolab.com?user=eu-waliston&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eu-waliston&theme=tokyonight" alt="GitHub profile activity summary" />
 
 </div>
-
-<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eu-waliston&theme=tokyonight" alt="Repositories per Language" />
-
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eu-waliston&theme=tokyonight" alt="GitHub Profile Details" /> </div>
 
 ---
 
-# 🎯 Atualmente
+# 🎯 Foco atual
 
-> 🚀 Transformando ideias em sistemas, código em soluções e problemas em aprendizado.
-
-<br>
-
-<div align="center">
-
-| 🟢 **ACTIVE** | ⚡ **EXPLORING** | 🔬 **RESEARCH** |
-|:---:|:---:|:---:|
-| 💻 **Fullstack Development** | 🤖 **Artificial Intelligence** | 🔐 **Cybersecurity** |
-| Construindo aplicações Web, APIs e sistemas completos | Explorando IA aplicada, automação e sistemas inteligentes | Estudando AppSec, vulnerabilidades e segurança de software |
-
-<br>
-
-| 🏗️ **BUILDING** | 🐳 **INFRASTRUCTURE** | 📚 **LEARNING** |
-|:---:|:---:|:---:|
-| **Software Architecture** | **Docker & Linux** | **Software Engineering** |
-| Projetando sistemas organizados e escaláveis | Trabalhando com containers, ambientes e infraestrutura | Evoluindo em padrões, boas práticas e arquitetura |
-
-</div>
-
-<br>
-
-### ⚡ Current Focus
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🟢 FULLSTACK        ████████████████████░░  ACTIVE         │
-│  🤖 ARTIFICIAL IA    ████████████████░░░░░  EXPLORING      │
-│  🔐 CYBERSECURITY    ██████████████░░░░░░░  RESEARCH       │
-│  🏗️ ARCHITECTURE     ███████████████░░░░░░  BUILDING       │
-│  🐳 DEVOPS / LINUX   █████████████░░░░░░░░  LEARNING       │
-│  📚 ENGINEERING      █████████████████░░░░  EVOLVING       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+- **Desenvolvimento Full Stack:** aplicações web e APIs.
+- **Engenharia de software:** arquitetura modular, qualidade e manutenção.
+- **IA e segurança:** projetos experimentais e pesquisa aplicada.
+- **Infraestrutura:** Docker, Linux e ambientes de desenvolvimento.
 
 ---
 
