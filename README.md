@@ -76,7 +76,7 @@ Backend para uma plataforma inteligente de listas de compras, com gerenciamento 
 
 ---
 
-## 💳 [Payment Gateway](https://github.com/eu-waliston/PAYMENT-GATEWAY)
+## 💳 [Payment Gateway](https://github.com/eu-waliston/PAYMENT-GATEWAY)  [🌐 Landing page](https://payment-gateway-payment-gateway-lan.vercel.app/)
 
 Gateway de pagamentos em JavaScript, com arquitetura modular, provedores simulados, webhooks e mecanismos de prevenção a fraudes.
 
